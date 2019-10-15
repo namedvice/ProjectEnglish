@@ -7350,3 +7350,29 @@ Script Stack (0 frames):
 [2019.10.15-17.59.14:845][345]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/TopDownCharacter.
 [2019.10.15-17.59.14:857][345]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/TopDownController.
 [2019.10.15-17.59.15:086][346]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/TopDownGameMode.
+[2019.10.15-18.49.23:961][284]LogPackageName: SearchForPackageOnDisk took   0.044s to resolve /Game/ProjEngl/Core/AI/BP_BaseEnemy.
+[2019.10.15-18.49.25:488][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/AI/BTT_FindClosestHero.
+[2019.10.15-18.49.27:089][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/AI/BTT_MoveToHero.
+[2019.10.15-18.49.27:989][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/AI/C_AI.
+[2019.10.15-18.49.29:144][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/BP_BaseCharacter.
+[2019.10.15-18.49.31:158][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/BP_BaseHero.
+[2019.10.15-18.49.32:372][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/BP_Camera.
+[2019.10.15-18.49.32:636][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/GM_Base.
+[2019.10.15-18.49.33:307][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/TopDownController.
+[2019.10.15-18.49.34:262][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/UI/WB_TurnButton.
+[2019.10.15-18.49.35:226][284]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProjEngl/Core/UI/WB_UI.
+[2019.10.15-18.49.40:640][285]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Maps/TopDownExampleMap.
+[2019.10.15-19.32.22:303][866]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.15-19.32.22:363][866]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.15-19.32.22:617][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-19.32.39:177][866]LogUObjectHash: Compacting FUObjectHashTables data took 655.67ms
+[2019.10.15-19.32.47:471][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.15-19.32.54:418][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.15-19.33.02:304][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.15-19.33.35:814][866]LogSlate: Window 'BTT_FindClosestHero' being destroyed
+[2019.10.15-19.33.50:057][866]LogSlate: Window 'SplinePaths - Unreal Editor' being destroyed
+[2019.10.15-19.33.50:233][866]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.15-19.34.05:043][867]Cmd: QUIT_EDITOR
+[2019.10.15-19.34.10:772][867]LogExit: Preparing to exit.
+[2019.10.15-19.34.30:410][867]LogExit: Editor shut down
+[2019.10.15-19.34.30:497][867]LogExit: Transaction tracking system shut down
