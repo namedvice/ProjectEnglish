@@ -1,7 +1,6 @@
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
+/ProjEng4.24/Saved
+/ProjEng4.24/intermediate
+/ProjEng4.24/config
 *.sln
 *.sdf
 *.suo
