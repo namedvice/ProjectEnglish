@@ -1,6 +1,6 @@
-/Saved
-/intermediate
-/config
+Saved/*
+intermediate/*
+config/*
 *.sln
 *.sdf
 *.suo
