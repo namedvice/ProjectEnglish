@@ -9,6 +9,17 @@
 			"Enabled": true
 		},
 		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
+		},
+		{
 			"Name": "AdvancedSessions",
 			"Enabled": true
 		}
