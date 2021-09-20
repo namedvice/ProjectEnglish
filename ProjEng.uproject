@@ -33,6 +33,7 @@
 			"Name": "AdvancedSessions",
 			"Enabled": false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 		},
@@ -41,6 +42,8 @@
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
 >>>>>>> c81368362e9d89e171760c951fb271902ad0c65f
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		}
