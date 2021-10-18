@@ -1,6 +1,5 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -35,14 +34,15 @@
 		},
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
-	]
+	],
+	"EngineAssociation": "4.26"
 }
