@@ -1,0 +1,1261 @@
+﻿Log file open, 04/24/22 16:26:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9292)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjEng
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\UnrealProjects\ProjectEnglish\ProjEng.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2bc83b604c32cb63b88e44bde980571f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.488883
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4FE1A74D4F84E43C46CBE6B8E7EB932F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonFoundationPackages
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogConfig: Display: Loading IOS ini files took 0.27 seconds
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogConfig: Display: Loading Mac ini files took 0.15 seconds
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogConfig: Display: Loading Windows ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin FunctionalTestingEditor
+LogPluginManager: Mounting Engine plugin PythonAutomationTest
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogConfig: Display: Loading Unix ini files took 0.18 seconds
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonFoundationPackages/Content/' mounted to '/PythonFoundationPackages/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/PythonAutomationTest/Content/' mounted to '/PythonAutomationTest/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.24-13.26.14:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.04.24-13.26.14:808][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.24-13.26.14:809][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.04.24-13.26.14:809][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.24-13.26.14:819][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.24-13.26.14:820][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.24-13.26.14:820][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.24-13.26.14:820][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.24-13.26.14:820][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.04.24-13.26.14:851][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     SubSysId    : 61633842
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     SharedSystemMemory : 8560586752 bytes
+[2022.04.24-13.26.14:853][  0]LogD3D11RHI:     AdapterLuid : 0 50099
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_1)
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:       6052/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     Revision    : 0000
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     SharedSystemMemory : 8560586752 bytes
+[2022.04.24-13.26.14:996][  0]LogD3D11RHI:     AdapterLuid : 0 53191
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     SubSysId    : 61633842
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     SharedSystemMemory : 8560586752 bytes
+[2022.04.24-13.26.14:999][  0]LogD3D11RHI:     AdapterLuid : 0 50099
+[2022.04.24-13.26.14:999][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.24-13.26.14:999][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.04.24-13.26.14:999][  0]LogHAL: Display: Platform has ~ 16 GB [17121173504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.24-13.26.14:999][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.04.24-13.26.14:999][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.24-13.26.14:999][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.24-13.26.15:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.24-13.26.15:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/ProjectEnglish/Saved/Config/WindowsEditor/Editor.ini]
+[2022.04.24-13.26.15:000][  0]LogInit: Computer: DESKTOP-USLSGBI
+[2022.04.24-13.26.15:000][  0]LogInit: User: death
+[2022.04.24-13.26.15:000][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.24-13.26.15:000][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.24-13.26.15:000][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.24-13.26.15:000][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.04.24-13.26.15:000][  0]LogMemory: Process Physical Memory: 243.88 MB used, 250.13 MB peak
+[2022.04.24-13.26.15:000][  0]LogMemory: Process Virtual Memory: 179.09 MB used, 179.09 MB peak
+[2022.04.24-13.26.15:000][  0]LogMemory: Physical Memory: 6297.90 MB used,  10030.12 MB free, 16328.02 MB total
+[2022.04.24-13.26.15:000][  0]LogMemory: Virtual Memory: 11429.32 MB used,  23983.13 MB free, 35412.45 MB total
+[2022.04.24-13.26.15:000][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.04.24-13.26.15:008][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.24-13.26.15:029][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.24-13.26.15:030][  0]LogInit: Using OS detected language (ru-RU).
+[2022.04.24-13.26.15:030][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.04.24-13.26.15:041][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2022.04.24-13.26.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.04.24-13.26.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.04.24-13.26.15:042][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.04.24-13.26.15:042][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.04.24-13.26.15:042][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.04.24-13.26.15:042][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.04.24-13.26.15:042][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.04.24-13.26.15:044][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.24-13.26.15:057][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.04.24-13.26.15:057][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2022.04.24-13.26.15:057][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2022.04.24-13.26.15:057][  0]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.04.24-13.26.15:087][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.24-13.26.15:087][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.24-13.26.15:334][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.24-13.26.15:334][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.24-13.26.15:334][  0]LogWindows: EnumDisplayDevices:
+[2022.04.24-13.26.15:334][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.04.24-13.26.15:334][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.04.24-13.26.15:334][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.04.24-13.26.15:335][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.04.24-13.26.15:335][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.04.24-13.26.15:335][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     SubSysId    : 61633842
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     SharedSystemMemory : 8560586752 bytes
+[2022.04.24-13.26.15:335][  0]LogD3D11RHI:     AdapterLuid : 0 50099
+[2022.04.24-13.26.15:417][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.24-13.26.15:417][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.24-13.26.15:417][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.04.24-13.26.15:417][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.24-13.26.15:457][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.24-13.26.15:512][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.24-13.26.15:520][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UnrealProjects/ProjectEnglish/ProjEng.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UnrealProjects/ProjectEnglish/Intermediate/TurnkeyReport_0.log" -log="D:/UnrealProjects/ProjectEnglish/Intermediate/TurnkeyLog_0.log" -project="D:/UnrealProjects/ProjectEnglish/ProjEng.uproject"  -platform=all'
+[2022.04.24-13.26.15:520][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UnrealProjects/ProjectEnglish/ProjEng.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UnrealProjects/ProjectEnglish/Intermediate/TurnkeyReport_0.log" -log="D:/UnrealProjects/ProjectEnglish/Intermediate/TurnkeyLog_0.log" -project="D:/UnrealProjects/ProjectEnglish/ProjEng.uproject"  -platform=all" ]
+[2022.04.24-13.26.15:547][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.04.24-13.26.15:557][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.04.24-13.26.15:557][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.24-13.26.15:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.24-13.26.15:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.04.24-13.26.15:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.04.24-13.26.15:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.24-13.26.15:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.24-13.26.15:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.24-13.26.15:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.04.24-13.26.15:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.24-13.26.15:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.24-13.26.15:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.04.24-13.26.15:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.04.24-13.26.15:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.04.24-13.26.15:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.24-13.26.15:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.24-13.26.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.24-13.26.15:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.04.24-13.26.15:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.24-13.26.15:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.24-13.26.15:698][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.04.24-13.26.15:707][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.24-13.26.15:710][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.04.24-13.26.15:711][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.04.24-13.26.15:711][  0]LogTargetPlatformManager:   ADPCM
+[2022.04.24-13.26.15:711][  0]LogTargetPlatformManager:   PCM
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager:   BINKA
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager:   OGG
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.04.24-13.26.15:714][  0]LogTargetPlatformManager:   OPUS
+[2022.04.24-13.26.15:786][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.04.24-13.26.15:794][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.04.24-13.26.15:798][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.04.24-13.26.15:798][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.24-13.26.15:799][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UnrealProjects/ProjectEnglish/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.24-13.26.15:799][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.24-13.26.15:799][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UnrealProjects/ProjectEnglish/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.24-13.26.15:799][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.24-13.26.15:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealProjects/ProjectEnglish/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.24-13.26.15:803][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.04.24-13.26.15:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealProjects/ProjectEnglish/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-13.26.15:803][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.04.24-13.26.15:828][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.04.24-13.26.15:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-13.26.15:828][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.04.24-13.26.15:844][  0]LogDerivedDataCache: Speed tests for C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.04.24-13.26.15:844][  0]LogDerivedDataCache: Display: Performance to C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=169.02MBs, RandomWriteSpeed=99.02MBs. Assigned SpeedClass 'Local'
+[2022.04.24-13.26.15:845][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.24-13.26.15:845][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.24-13.26.15:845][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.04.24-13.26.15:855][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.04.24-13.26.15:855][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.04.24-13.26.15:855][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/UnrealProjects/ProjectEnglish/Intermediate/Shaders/WorkingDirectory/8276/).
+[2022.04.24-13.26.15:856][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/A06961804B11AEC6D30BB5AB5ACCCD8E/'.
+[2022.04.24-13.26.15:856][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.24-13.26.15:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.04.24-13.26.17:968][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.04.24-13.26.17:968][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.24-13.26.17:969][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.24-13.26.18:028][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2022.04.24-13.26.18:039][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.04.24-13.26.18:286][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.04.24-13.26.18:287][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.04.24-13.26.18:923][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.24-13.26.18:923][  0]LogDeviceProfileManager: Active device profile: [000004BA9110B0C0][000004BA81742800 50] WindowsEditor
+[2022.04.24-13.26.18:923][  0]LogDeviceProfileManager: Profiles: [000004BA9110AB80][000004BA85690000 50] Windows, [000004BA9110B0C0][000004BA81742800 50] WindowsEditor, [000004BA911086C0][000004BA7BE3A000 50] WindowsServer, [000004BA91108DC0][000004BA8565A000 50] WindowsClient, [000004BA91107C40][000004BA82405000 50] IOS, [000004BA91106200][000004BA85655000 50] iPadAir2, [000004BA91109BC0][000004BA914C2800 50] IPadPro, [000004BA91109300][000004BA914C0000 50] iPadAir3, [000004BA91106C80][000004BA914C7800 50] iPadAir4, [000004BA911094C0][000004BA914CA000 50] iPadMini4, [000004BA91107380][000004BA914CC800 50] iPadMini5, [000004BA9110A480][000004BA88F1C800 50] iPadMini6, [000004BA9110E540][000004BA91505000 50] iPhone6S, [000004BA9110E8C0][000004BA91502800 50] iPhone7, [000004BA9110BD00][000004BA91500000 50] iPodTouch7, [000004BA9110E1C0][000004BA9150A000 50] iPhone6SPlus, [000004BA9110E700][000004BA9150C800 50] iPhone7Plus, [000004BA911078C0][000004BA914C5000 50] iPhoneSE, [000004BA9110A9C0][000004BA91510000 50] iPhone8, [000004BA9110D200][000004BA91515000 50] iPhone8Plus, [000004BA9110EA80][000004BA91517800 50] iPhoneX, [000004BA91108180][000004BA9151A000 50] iPhoneXS, [000004BA91107540][000004BA9151C800 50] iPhoneXSMax, [000004BA9110CB00][000004BA91507800 50] iPhoneXR, [000004BA91108F80][000004BA91520000 50] iPhone11, [000004BA911071C0][000004BA91525000 50] iPhone11Pro, [000004BA91109D80][000004BA91527800 50] iPhone11ProMax, [000004BA9110C400][000004BA9152A000 50] iPhoneSE2, [000004BA911063C0][000004BA9152C800 50] iPhone12Mini, [000004BA91108880][000004BA91512800 50] iPhone12, [000004BA91107000][000004BA91560000 50] iPhone12Pro, [000004BA9110CE80][000004BA91565000 50] iPhone12ProMax, [000004BA9110D040][000004BA91567800 50] iPhone13Mini, [000004BA91108500][000004BA9156A000 50] iPhone13, [000004BA91107700][000004BA9156C800 50] iPhone13Pro, [000004BA9110C240][000004BA91522800 50] iPhone13ProMax, [000004BA9110BEC0][000004BA91570000 50] iPadPro105, [000004BA91106E40][000004BA91575000 50] iPadPro129, [000004BA91106AC0][000004BA91577800 50] iPadPro97, [000004BA9110DAC0][000004BA9157A000 50] iPadPro2_129, [000004BA9110B280][000004BA9157C800 50] iPad5, [000004BA9110DE40][000004BA91562800 50] iPad6, [000004BA9110B600][000004BA91580000 50] iPad7, [000004BA9110D900][000004BA91585000 50] iPad8, [000004BA9110B980][000004BA91587800 50] iPad9, [000004BA91107FC0][000004BA9158A000 50] iPadPro11, [000004BA91108A40][000004BA9158C800 50] iPadPro2_11, [000004BA9110DC80][000004BA91572800 50] iPadPro3_11, [000004BA91109840][000004BA914B0000 50] iPadPro3_129, [000004BA9110A800][000004BA914B5000 50] iPadPro4_129, [000004BA9110A100][000004BA914B7800 50] iPadPro5_129, [000004BA9110A640][000004BA914BA000 50] AppleTV, [000004BA9110D740][000004BA914BC800 50] AppleTV4K, [000004BA9110C940][000004BA91582800 50] TVOS, [000004BA915D0700][000004BA915A2800 50] Mac, [000004BA915D0A80][000004BA915A0000 50] MacEditor, [000004BA915D24C0][000004BA915A7800 50] MacClient, [000004BA915D1340][000004BA915AA000 50] MacServer, [000004BA915D4980][000004BA914B2800 50] Linux, [000004BA915D4D00][000004BA915AC800 50] LinuxEditor, [000004BA915D1A40][000004BA915B0000 50] LinuxArm64Editor, [000004BA915D1C00][000004BA915B5000 50] LinuxArm64, [000004BA915D0FC0][000004BA915B7800 50] LinuxClient, [000004BA915D4600][000004BA915BA000 50] LinuxArm64Client, [000004BA915D2BC0][000004BA915BC800 50] LinuxServer, [000004BA915D3640][000004BA915A5000 50] LinuxArm64Server, [000004BA915D08C0][000004BA915C0000 50] Android, [000004BA915D32C0][000004BA915C5000 50] Android_Preview_OpenGL, [000004BA915D0380][000004BA915C7800 50] Android_Preview_Vulkan, [000004BA915D1DC0][000004BA915CA000 50] Android_Low, [000004BA915D0E00][000004BA915CC800 50] Android_Mid, [000004BA915D3F00][000004BA915B2800 50] Android_High, [000004BA915D2840][000004BA915E0000 50] Android_Default, [000004BA915D1F80][000004BA915E5000 50] Android_Adreno4xx, [000004BA915D3D40][000004BA915E7800 50] Android_Adreno5xx_Low, [000004BA915D0000][000004BA915EA000 50] Android_Adreno5xx, [000004BA915D2140][000004BA915EC800 50] Android_Adreno6xx, [000004BA915D0540][000004BA915C2800 50] Android_Adreno6xx_Vulkan, [000004BA915D2D80][000004BA915F0000 50] Android_Adreno7xx, [000004BA915D1180][000004BA915F5000 50] Android_Adreno7xx_Vulkan, [000004BA915D3480][000004BA915F7800 50] Android_Mali_T6xx, [000004BA915D55C0][000004BA915FA000 50] Android_Mali_T7xx, [000004BA915D3100][000004BA915FC800 50] Android_Mali_T8xx, [000004BA915D3B80][000004BA915E2800 50] Android_Mali_G71, [000004BA915D39C0][000004BA91600000 50] Android_Mali_G72, [000004BA915D5780][000004BA91605000 50] Android_Mali_G72_Vulkan, [000004BA915D1500][000004BA91607800 50] Android_Mali_G76, [000004BA915D5B00][000004BA9160A000 50] Android_Mali_G76_Vulkan, [000004BA915D40C0][000004BA9160C800 50] Android_Mali_G77, [000004BA915D4B40][000004BA915F2800 50] Android_Mali_G77_Vulkan, [000004BA915D6580][000004BA91610000 50] Android_Mali_G78, [000004BA915D2300][000004BA91615000 50] Android_Mali_G78_Vulkan, [000004BA915D47C0][000004BA91617800 50] Android_Mali_G710, [000004BA915D1880][000004BA9161A000 50] Android_Mali_G710_Vulkan, [000004BA915D6740][000004BA9161C800 50] Android_Xclipse_920, [000004BA915D4280][000004BA91602800 50] Android_Xclipse_920_Vulkan, [000004BA915D6AC0][000004BA91620000 50] Android_Vulkan_SM5, [000004BA915D5400][000004BA91625000 50] Android_PowerVR_G6xxx, [000004BA915D7540][000004BA91627800 50] Android_PowerVR_GT7xxx, [000004BA915D01C0][000004BA9162A000 50] Android_PowerVR_GE8xxx, [000004BA915D6040][000004BA9162C800 50] Android_PowerVR_GM9xxx, [000004BA915D5080][000004BA91612800 50] Android_PowerVR_GM9xxx_Vulkan, [000004BA915D7700][000004BA91630000 50] Android_TegraK1, [000004BA915D63C0][000004BA91635000 50] Android_Unknown_Vulkan, [000004BA915D7A80][000004BA91637800 50] Oculus_Quest, [000004BA915D4EC0][000004BA9163A000 50] Oculus_Quest2, [000004BA915D5E80][000004BA9163C800 50] HoloLens, 
+[2022.04.24-13.26.18:923][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.04.24-13.26.18:927][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.04.24-13.26.18:927][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-13.26.18:927][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-13.26.18:927][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-13.26.18:927][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.04.24-13.26.18:957][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Street.umap has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Brick_Facade_vizcegj/MI_Brick_Facade_vizcegj_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Brick_Wall_ujvefcug/MI_Brick_Wall_ujvefcug_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_CobblestoneRoad_tf2nbjgdw_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_thxqebsaw/T_Cobblestone_Road_thxqebsaw_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_thxqebsaw/T_CobblestoneRoad_thxqebsaw_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_thxqebsaw/MI_Cobblestone_Road_thxqebsaw_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Cobblestone_Road_thxqebsaw/T_Cobblestone_Road_thxqebsaw_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_DamagedBrickWallPlaster_vmcmdjdlw_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/MI_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_vmdkahflw/T_Damaged_Brick_Wall_vmdkahflw_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_vmdkahflw/T_Damaged_Brick_Wall_vmdkahflw_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_vmdkahflw/MI_Damaged_Brick_Wall_vmdkahflw_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Brick_Wall_vmdkahflw/T_DamagedBrickWall_vmdkahflw_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/MI_Damaged_Concrete_Floor_vizbefe_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_DamagedConcreteFloor_vizbefe_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Wall_vmgkddyg/T_Damaged_Wall_vmgkddyg_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Wall_vmgkddyg/T_Damaged_Wall_vmgkddyg_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Wall_vmgkddyg/MI_Damaged_Wall_vmgkddyg_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Damaged_Wall_vmgkddyg/T_DamagedWall_vmgkddyg_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_M.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_DisposableAluminumMagazine_sgpcbfhc_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/MI_Disposable_Aluminum_Magazine_sgpcbfhc_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rliwunp0/T_Fiber_Glass_rliwunp0_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rliwunp0/T_Fiber_Glass_rliwunp0_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rliwunp0/T_FiberGlass_rliwunp0_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rliwunp0/MI_Fiber_Glass_rliwunp0_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rlixefp0/T_Fiber_Glass_rlixefp0_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rlixefp0/T_Fiber_Glass_rlixefp0_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rlixefp0/MI_Fiber_Glass_rlixefp0_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Fiber_Glass_rlixefp0/T_FiberGlass_rlixefp0_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Gravel_Road_vicpbao/T_GravelRoad_vicpbao_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Gravel_Road_vicpbao/MI_Gravel_Road_vicpbao_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vhjnchn/T_Mossy_Pavers_vhjnchn_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vhjnchn/T_Mossy_Pavers_vhjnchn_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vhjnchn/T_MossyPavers_vhjnchn_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vhjnchn/MI_Mossy_Pavers_vhjnchn_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vizicft/T_Mossy_Pavers_vizicft_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vizicft/T_Mossy_Pavers_vizicft_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vizicft/T_MossyPavers_vizicft_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Mossy_Pavers_vizicft/MI_Mossy_Pavers_vizicft_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vdcjcbb/T_Old_Plywood_vdcjcbb_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vdcjcbb/T_Old_Plywood_vdcjcbb_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vdcjcbb/MI_Old_Plywood_vdcjcbb_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vdcjcbb/T_OldPlywood_vdcjcbb_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/T_Old_Plywood_vigjfivg_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/T_Old_Plywood_vigjfivg_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/T_OldPlywood_vigjfivg_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/MI_Old_Plywood_vigjfivg_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Varnished_Redwood_Burl_Veneer_tchkefnc/T_Old_Varnished_Redwood_Burl_Veneer_tchkefnc_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Varnished_Redwood_Burl_Veneer_tchkefnc/T_Old_Varnished_Redwood_Burl_Veneer_tchkefnc_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Varnished_Redwood_Burl_Veneer_tchkefnc/MI_Old_Varnished_Redwood_Burl_Veneer_tchkefnc_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Varnished_Redwood_Burl_Veneer_tchkefnc/T_OldVarnishedRedwoodBurlVeneer_tchkefnc_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Old_Wallpaper_ufimeaady/MI_Old_Wallpaper_ufimeaady_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rough_Cobblestone_Floor_vixidai/T_Rough_Cobblestone_Floor_vixidai_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rough_Cobblestone_Floor_vixidai/T_Rough_Cobblestone_Floor_vixidai_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rough_Cobblestone_Floor_vixidai/T_RoughCobblestoneFloor_vixidai_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rough_Cobblestone_Floor_vixidai/MI_Rough_Cobblestone_Floor_vixidai_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Steel_se4lbc1c/T_Steel_se4lbc1c_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Steel_se4lbc1c/T_Steel_se4lbc1c_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Steel_se4lbc1c/T_Steel_se4lbc1c_2K_M.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Steel_se4lbc1c/MI_Steel_se4lbc1c_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Square_Floor_Tiles_viriah3/T_Square_Floor_Tiles_viriah3_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Square_Floor_Tiles_viriah3/T_Square_Floor_Tiles_viriah3_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Square_Floor_Tiles_viriah3/T_SquareFloorTiles_viriah3_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Square_Floor_Tiles_viriah3/MI_Square_Floor_Tiles_viriah3_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Steel_se4lbc1c/T_Steel_se4lbc1c_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Concrete_Plaster_vb1jdhag/T_Worn_Concrete_Plaster_vb1jdhag_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Concrete_Plaster_vb1jdhag/T_Worn_Concrete_Plaster_vb1jdhag_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Concrete_Plaster_vb1jdhag/T_WornConcretePlaster_vb1jdhag_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Concrete_Plaster_vb1jdhag/MI_Worn_Concrete_Plaster_vb1jdhag_2K.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Roof_Shingles_ug3qchmew/T_Wooden_Roof_Shingles_ug3qchmew_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/MSTextures/WhitePlaceholder.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/MSTextures/Placeholder_Normal.uasset has malformed tag
+[2022.04.24-13.26.19:221][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/MSTextures/Placeholder.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/MSTextures/BlackPlaceholder.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Paint_Wall_vjyifds/T_Worn_Paint_Wall_vjyifds_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterMaps/Content/Maps/L_Expanse_BuiltData.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterMaps/Content/Maps/L_Expanse_Blockout_BuiltData.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterMaps/Content/Maps/L_Convolution_Blockout_BuiltData.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Foliage_Material/MF_Translucency.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/MSPresets/M_MS_Decal_Material/MF_QuixelDecalPOM.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Paint_Wall_vjyifds/T_Worn_Paint_Wall_vjyifds_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Paint_Wall_vjyifds/T_WornPaintWall_vjyifds_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Worn_Paint_Wall_vjyifds/MI_Worn_Paint_Wall_vjyifds_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Roof_Shingles_ug3qchmew/T_Wooden_Roof_Shingles_ug3qchmew_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Roof_Shingles_ug3qchmew/T_WoodenRoofShingles_ug3qchmew_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Facade_ulxqbbjaw/T_Wooden_Facade_ulxqbbjaw_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Facade_ulxqbbjaw/T_Wooden_Facade_ulxqbbjaw_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Roof_Shingles_ug3qchmew/MI_Wooden_Roof_Shingles_ug3qchmew_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Facade_ulxqbbjaw/T_WoodenFacade_ulxqbbjaw_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Wooden_Facade_ulxqbbjaw/MI_Wooden_Facade_ulxqbbjaw_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wbzlche/T_Stucco_Facade_wbzlche_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wbzlche/T_Stucco_Facade_wbzlche_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wbzlche/T_StuccoFacade_wbzlche_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wb0ieba/T_Stucco_Facade_wb0ieba_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wbzlche/MI_Stucco_Facade_wbzlche_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wb0ieba/T_Stucco_Facade_wb0ieba_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wb0ieba/T_StuccoFacade_wb0ieba_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Stucco_Facade_wb0ieba/MI_Stucco_Facade_wb0ieba_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Steel_sccoehyp/T_Scratched_Painted_Steel_sccoehyp_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Steel_sccoehyp/T_Scratched_Painted_Steel_sccoehyp_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Steel_sccoehyp/T_Scratched_Painted_Steel_sccoehyp_2K_M.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Steel_sccoehyp/T_ScratchedPaintedSteel_sccoehyp_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Iron_scksebop/T_Scratched_Painted_Iron_scksebop_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Iron_scksebop/T_Scratched_Painted_Iron_scksebop_2K_M.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Iron_scksebop/T_Scratched_Painted_Iron_scksebop_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Iron_scksebop/T_ScratchedPaintedIron_scksebop_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Iron_scksebop/MI_Scratched_Painted_Iron_scksebop_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Scratched_Painted_Steel_sccoehyp/MI_Scratched_Painted_Steel_sccoehyp_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rusty_Metal_Sheet_tkdicbgew/T_Rusty_Metal_Sheet_tkdicbgew_2K_D.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rusty_Metal_Sheet_tkdicbgew/T_Rusty_Metal_Sheet_tkdicbgew_2K_N.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rusty_Metal_Sheet_tkdicbgew/T_RustyMetalSheet_tkdicbgew_2K_ORDp.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Megascans/Surfaces/Rusty_Metal_Sheet_tkdicbgew/MI_Rusty_Metal_Sheet_tkdicbgew_2K.uasset has malformed tag
+[2022.04.24-13.26.19:222][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.24-13.26.19:222][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.24-13.26.19:222][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.24-13.26.19:222][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.24-13.26.19:222][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.24-13.26.19:249][  0]LogNetVersion: ProjEng 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1770305492)
+[2022.04.24-13.26.19:623][  0]LogSlate: Border
+[2022.04.24-13.26.19:623][  0]LogSlate: BreadcrumbButton
+[2022.04.24-13.26.19:623][  0]LogSlate: Default
+[2022.04.24-13.26.19:623][  0]LogSlate: Icons.Save
+[2022.04.24-13.26.19:623][  0]LogSlate: Icons.Toolbar.Settings
+[2022.04.24-13.26.19:624][  0]LogSlate: ListView
+[2022.04.24-13.26.19:624][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.04.24-13.26.19:624][  0]LogSlate: SoftwareCursor_Grab
+[2022.04.24-13.26.19:624][  0]LogSlate: TableView.DarkRow
+[2022.04.24-13.26.19:624][  0]LogSlate: TableView.Row
+[2022.04.24-13.26.19:624][  0]LogSlate: TreeView
+[2022.04.24-13.26.19:928][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.19:988][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.19:988][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.20:147][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.04.24-13.26.20:147][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.04.24-13.26.20:147][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst_Inst.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/LyraExampleContent/Content/Materials/MI_Glass_Panels_2.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Window_Wood.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_055.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_054.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_053.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_051.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_050.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_049.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/WoodMaterial.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_048.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_047.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_046.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_044.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_045.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_042.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_041.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_043.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_040.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_039.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_037.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_036.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_035.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_038.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_034.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_033.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_030.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_029.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_028.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_027.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_026.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_025.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_024.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_023.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_022.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_020.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_021.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_019.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_017.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_016.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_015.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_014.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_013.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_012.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_011.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_010.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_009.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_007.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_008.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_006.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_004.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_005.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_002.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_003.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_3_001.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_006.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_008.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_005.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_003.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_004.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_002.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_1_004.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_2_001.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_1_003.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_008.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_Window_1_002.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_007.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_005.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall_3M_004.uasset has malformed tag
+[2022.04.24-13.26.20:751][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Wall.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Road.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/RGB_Texture_ncl1_2.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/RGB_Texture_ncl1_1.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/RGB_Texture.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_007.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_008.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_006.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_005.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_004.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_003.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_002.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane_001.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Plane.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Outside.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/MetalMaterial.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Metall.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Metal.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Inside_001.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Inside.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Inner.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Glass_001.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Glass.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cylinder_005.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cylinder_004.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cylinder_003.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cylinder_002.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_009.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_008.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_007.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_005.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_006.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_003.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube_002.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Cube.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Border.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/untitled_category/untitled_asset/Black.uasset has malformed tag
+[2022.04.24-13.26.20:752][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Maps/Untitled.umap has malformed tag
+[2022.04.24-13.26.20:752][  0]LogPython: Using Python 3.9.7
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MPC_Dissolve.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/M_Dissolve_Area.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MM_NoiseRGB_Procedural_Inst.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MM_NoiseRGB_Procedural.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MM_Glass_Inst.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MM_Base_Inst.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MM_Glass.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MI_rack.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MF_TriplanarTexture.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MF_Tiling_And_Triplanar.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MF_Lerp1.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MF_Lerp.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/11335.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/MF_Attribute.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MM_Base_1_Materialr.uasset has malformed tag
+[2022.04.24-13.26.22:015][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MM_BaseMaterial_Inst.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MI_Wood_Interior.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MI_WoodInner.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MI_WoodInterior.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MI_WoodWindow.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MI_WhiteConcrete.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Mi_Brick1.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Test/NewMaterial_Inst.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Test/NewMaterial.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Old/MM_Base.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Old/Mi_Brick1.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/Old/MI_BaseMaterial.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentRed.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentGreen.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogAssetRegistry: Error: Package D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentBlue.uasset has malformed tag
+[2022.04.24-13.26.22:016][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FF1B18FA45E511126A8069B21924411C | Instance: 8DB0DEDC48B5ED9F6C5FB4BA95B09E27 (DESKTOP-USLSGBI-8276).
+[2022.04.24-13.26.22:069][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.24-13.26.22:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.24-13.26.22:286][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.22:290][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.22:303][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.22:315][  0]LogUProjectInfo: Found projects:
+[2022.04.24-13.26.22:650][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.24-13.26.22:739][  0]LogOnline: Google: Google Startup!
+[2022.04.24-13.26.22:756][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.24-13.26.22:781][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-13.26.22:781][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-13.26.22:997][  0]LogCollectionManager: Loaded 0 collections in 0.002405 seconds
+[2022.04.24-13.26.23:107][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/ProjectEnglish/Saved/Collections/' took 0.00s
+[2022.04.24-13.26.23:107][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/ProjectEnglish/Content/Developers/death/Collections/' took 0.00s
+[2022.04.24-13.26.23:107][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/ProjectEnglish/Content/Collections/' took 0.00s
+[2022.04.24-13.26.23:690][  0]LogEngine: Initializing Engine...
+[2022.04.24-13.26.23:711][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.24-13.26.24:075][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.24-13.26.24:076][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.24-13.26.24:091][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-13.26.24:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.24-13.26.24:137][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.24-13.26.24:173][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.24-13.26.24:174][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.24-13.26.24:174][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.04.24-13.26.24:175][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.24-13.26.24:175][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.24-13.26.24:175][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-13.26.24:175][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-13.26.24:176][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-13.26.24:176][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-13.26.24:176][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-13.26.24:189][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.24-13.26.24:255][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2022.04.24-13.26.24:255][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-13.26.24:258][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-13.26.24:258][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-13.26.24:259][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.04.24-13.26.24:259][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-13.26.24:260][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-13.26.24:260][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.04.24-13.26.24:260][  0]LogInit: FAudioDevice initialized.
+[2022.04.24-13.26.24:261][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.24-13.26.24:261][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.24-13.26.24:261][  0]LogInit: Texture streaming: Enabled
+[2022.04.24-13.26.24:311][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.04.24-13.26.24:324][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.24-13.26.24:361][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.04.24-13.26.24:372][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.04.24-13.26.24:372][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: ProjEngEditor Win64 Development
+[2022.04.24-13.26.29:552][  0]LogLiveCoding: Display: First instance in process group "UE_ProjEng_0xa18417f2", spawning console
+[2022.04.24-13.26.29:552][  0]LogLiveCoding: Display: Waiting for server
+[2022.04.24-13.26.29:552][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.04.24-13.26.29:561][  0]LogInit: Transaction tracking system initialized
+[2022.04.24-13.26.29:684][  0]BlueprintLog: New page: Editor Load
+[2022.04.24-13.26.29:996][  0]LocalizationService: Localization service is disabled
+[2022.04.24-13.26.30:075][  0]TimingProfiler: Initialize
+[2022.04.24-13.26.30:076][  0]TimingProfiler: OnSessionChanged
+[2022.04.24-13.26.30:076][  0]LoadingProfiler: Initialize
+[2022.04.24-13.26.30:076][  0]LoadingProfiler: OnSessionChanged
+[2022.04.24-13.26.30:076][  0]NetworkingProfiler: Initialize
+[2022.04.24-13.26.30:076][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.24-13.26.30:076][  0]MemoryProfiler: Initialize
+[2022.04.24-13.26.30:076][  0]MemoryProfiler: OnSessionChanged
+[2022.04.24-13.26.31:195][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.04.24-13.26.31:308][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.24-13.26.31:314][  0]SourceControl: Source control is disabled
+[2022.04.24-13.26.31:314][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.740
+[2022.04.24-13.26.31:314][  0]Cmd: MAP LOAD FILE="D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Maps/Hub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.24-13.26.31:314][  0]LightingResults: New page: Lighting Build
+[2022.04.24-13.26.31:325][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-13.26.31:325][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-13.26.31:326][  0]MapCheck: New page: Map Check
+[2022.04.24-13.26.31:326][  0]LightingResults: New page: Lighting Build
+[2022.04.24-13.26.31:351][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.24-13.26.31:385][  0]LogAssetRegistry: Display: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterCore/Content/GameplayCues/W_WaitingForPlayers_Message.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.04.24-13.26.31:385][  0]LogAssetRegistry: Display: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterCore/Content/UserInterface/HUD/W_QuickBarSlot.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.04.24-13.26.31:385][  0]LogAssetRegistry: Display: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterCore/Content/Game/Respawn/W_RespawnTimer.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.04.24-13.26.31:385][  0]LogAssetRegistry: Display: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterCore/Content/Elimination/UI/W_ScoreWidget_Elimination.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.04.24-13.26.31:385][  0]LogAssetRegistry: Display: Package D:/UnrealProjects/ProjectEnglish/Content/Plugins/GameFeatures/ShooterCore/Content/ControlPoint/UI/W_CPScoreWidget.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.04.24-13.26.32:117][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/ProjectEnglish/Content/' took 1.44s
+[2022.04.24-13.26.32:117][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.24-13.26.32:837][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/ProjEng/UI/MissionResult/WB_AdditionalReward.WB_AdditionalReward_C:ExecuteUbergraph_WB_AdditionalReward:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.04.24-13.26.35:410][  0]LogLinker: Warning: Asset '/Game/Materials/MF_ExtractDepth' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.24-13.26.35:411][  0]LogLinker: Warning: Asset '/Game/Materials/MF_SampleSceneTextureNeighbourUVs' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.24-13.26.36:017][  0]LogStaticMesh: StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube should be resaved to improve async compilation performance.
+[2022.04.24-13.26.36:134][  0]LogStaticMesh: StaticMesh /Game/GrenadePack/Meshes/VFX_Sphere.VFX_Sphere should be resaved to improve async compilation performance.
+[2022.04.24-13.26.36:651][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub'.
+[2022.04.24-13.26.36:651][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.24-13.26.36:652][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-13.26.36:653][  0]LogAIModule: Creating AISystem for world Hub
+[2022.04.24-13.26.36:673][  0]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.36:673][  0]AnimBlueprintLog: Warning: SLOTNODE: 'Fullbody' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.36:673][  0]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.36:737][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.24-13.26.36:798][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.24-13.26.36:799][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.24-13.26.36:799][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2022.04.24-13.26.36:799][  0]LogFileHelpers: Loading map 'Hub' took 5.486
+[2022.04.24-13.26.36:822][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.249
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: ================================================
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.24-13.26.36:822][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.24-13.26.36:823][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.04.24-13.26.36:823][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.04.24-13.26.36:823][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.04.24-13.26.36:823][  0]LogShaderCompilers: Display: ================================================
+[2022.04.24-13.26.37:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-13.26.37:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-13.26.37:025][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-13.26.37:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-13.26.37:067][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:067][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:070][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:070][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:071][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:071][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:073][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:073][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:074][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:075][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:076][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:077][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:078][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:078][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:079][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:079][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:081][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:081][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:082][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.04.24-13.26.37:082][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-13.26.37:376][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.24-13.26.37:378][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.24-13.26.37:382][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.24-13.26.37:384][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.24-13.26.37:384][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.24-13.26.37:875][  0]LogStall: Startup...
+[2022.04.24-13.26.37:878][  0]LogStall: Startup complete.
+[2022.04.24-13.26.37:911][  0]LogLoad: (Engine Initialization) Total time: 26.34 seconds
+[2022.04.24-13.26.37:911][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.24-13.26.38:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.24-13.26.38:548][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UnrealProjects/ProjectEnglish/Content/' took 0.60s
+[2022.04.24-13.26.39:169][  2]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.24-13.26.39:499][  3]LogAssetRegistry: Asset discovery search completed in 21.4715 seconds
+[2022.04.24-13.26.39:513][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.24-13.26.40:256][ 57]LogNavigationDataBuild: Navigation data generation finished in /Game/ProjEng/Maps/Hub.
+[2022.04.24-13.26.56:758][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.24-13.26.56:839][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/MI_Disposable_Aluminum_Magazine_sgpcbfhc_2K' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.56:839][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/MI_Disposable_Aluminum_Magazine_sgpcbfhc_2K'
+[2022.04.24-13.26.56:918][623]LoadErrors: Error: The summary for the package '/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.56:918][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material'
+[2022.04.24-13.26.57:545][623]LoadErrors: Error: The summary for the package '/Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:545][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst'
+[2022.04.24-13.26.57:546][623]LoadErrors: Error: The summary for the package '/Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst_Inst' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:546][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst_Inst'
+[2022.04.24-13.26.57:779][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MM_Base_1_Materialr' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:779][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MM_Base_1_Materialr'
+[2022.04.24-13.26.57:779][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_D' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:779][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_D'
+[2022.04.24-13.26.57:780][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_N' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:780][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_Disposable_Aluminum_Magazine_sgpcbfhc_2K_N'
+[2022.04.24-13.26.57:780][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_DisposableAluminumMagazine_sgpcbfhc_2K_ORDp' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:780][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/T_DisposableAluminumMagazine_sgpcbfhc_2K_ORDp'
+[2022.04.24-13.26.57:924][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentBlue' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:924][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentBlue'
+[2022.04.24-13.26.57:924][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentGreen' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:924][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentGreen'
+[2022.04.24-13.26.57:925][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentRed' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:925][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MF/MF_MapAdjustmentRed'
+[2022.04.24-13.26.57:964][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/11335' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.57:964][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/11335'
+[2022.04.24-13.26.58:154][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_D' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:154][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_D'
+[2022.04.24-13.26.58:155][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_N' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:155][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_Damaged_Brick_Wall_Plaster_vmcmdjdlw_2K_N'
+[2022.04.24-13.26.58:155][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_DamagedBrickWallPlaster_vmcmdjdlw_2K_ORDp' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:155][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Brick_Wall_Plaster_vmcmdjdlw/T_DamagedBrickWallPlaster_vmcmdjdlw_2K_ORDp'
+[2022.04.24-13.26.58:156][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_D' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:156][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_D'
+[2022.04.24-13.26.58:156][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_N' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:156][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_Damaged_Concrete_Floor_vizbefe_2K_N'
+[2022.04.24-13.26.58:157][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_DamagedConcreteFloor_vizbefe_2K_ORDp' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:157][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Damaged_Concrete_Floor_vizbefe/T_DamagedConcreteFloor_vizbefe_2K_ORDp'
+[2022.04.24-13.26.58:700][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_D' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:700][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_D'
+[2022.04.24-13.26.58:700][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_N' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:700][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_Cobblestone_Road_tf2nbjgdw_2K_N'
+[2022.04.24-13.26.58:701][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_CobblestoneRoad_tf2nbjgdw_2K_ORDp' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:701][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Cobblestone_Road_tf2nbjgdw/T_CobblestoneRoad_tf2nbjgdw_2K_ORDp'
+[2022.04.24-13.26.58:701][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_D' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:701][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_D'
+[2022.04.24-13.26.58:702][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_N' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:702][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_Gravel_Road_vicpbao_2K_N'
+[2022.04.24-13.26.58:702][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_GravelRoad_vicpbao_2K_ORDp' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:702][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Gravel_Road_vicpbao/T_GravelRoad_vicpbao_2K_ORDp'
+[2022.04.24-13.26.58:854][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MI_Wood_Interior' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.58:855][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MI_Wood_Interior'
+[2022.04.24-13.26.59:071][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MI_WoodWindow' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:071][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProjEng/Art/Materials/NewMaterials/MI_WoodWindow'
+[2022.04.24-13.26.59:073][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_003' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:073][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cube_003'
+[2022.04.24-13.26.59:073][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_007' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:073][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cube_007'
+[2022.04.24-13.26.59:074][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_008' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:074][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cube_008'
+[2022.04.24-13.26.59:074][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_009' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:074][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cube_009'
+[2022.04.24-13.26.59:077][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_002' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:077][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cylinder_002'
+[2022.04.24-13.26.59:077][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_003' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:077][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cylinder_003'
+[2022.04.24-13.26.59:078][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_005' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:078][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Cylinder_005'
+[2022.04.24-13.26.59:078][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Plane' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:078][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Plane'
+[2022.04.24-13.26.59:079][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Plane_004' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:079][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Plane_004'
+[2022.04.24-13.26.59:081][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_010' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:081][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_010'
+[2022.04.24-13.26.59:081][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_013' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:081][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_013'
+[2022.04.24-13.26.59:082][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_014' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:082][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_014'
+[2022.04.24-13.26.59:083][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Border' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:083][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Border'
+[2022.04.24-13.26.59:084][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_019' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:084][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_019'
+[2022.04.24-13.26.59:084][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_020' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:085][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_020'
+[2022.04.24-13.26.59:085][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_024' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:085][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_024'
+[2022.04.24-13.26.59:085][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_026' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:086][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_026'
+[2022.04.24-13.26.59:087][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Black' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:087][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Black'
+[2022.04.24-13.26.59:087][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Inside' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:087][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Inside'
+[2022.04.24-13.26.59:088][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Outside' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:088][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Outside'
+[2022.04.24-13.26.59:089][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_038' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:089][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_038'
+[2022.04.24-13.26.59:090][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_039' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:090][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_039'
+[2022.04.24-13.26.59:090][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_040' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:090][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_040'
+[2022.04.24-13.26.59:091][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_042' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:091][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_042'
+[2022.04.24-13.26.59:091][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_045' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:091][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_045'
+[2022.04.24-13.26.59:092][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_048' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:092][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_048'
+[2022.04.24-13.26.59:093][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_049' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:093][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_049'
+[2022.04.24-13.26.59:093][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_050' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:093][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_050'
+[2022.04.24-13.26.59:094][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_051' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:094][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_051'
+[2022.04.24-13.26.59:095][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Glass' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:095][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Glass'
+[2022.04.24-13.26.59:095][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Inside_001' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:095][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Inside_001'
+[2022.04.24-13.26.59:098][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_053' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:098][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_053'
+[2022.04.24-13.26.59:098][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_054' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.26.59:098][623]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/untitled_asset/Wall_3M_Window_3_054'
+[2022.04.24-13.26.59:395][623]LogMaterial: Display: Missing cached shadermap for MM_Base_RGB_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4218A517DEC1CDE54D35ABCA387B8C794AAC2E62), compiling. 
+[2022.04.24-13.26.59:403][623]LogMaterial: Warning: [AssetLog] D:\UnrealProjects\ProjectEnglish\Content\ProjEng\Art\Materials\NewMaterials\MM_Base_RGB_Material.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.04.24-13.26.59:429][623]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.59:429][623]AnimBlueprintLog: Warning: SLOTNODE: 'Fullbody' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.59:429][623]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.26.59:439][623]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ProjEng/Maps/Street.Street
+[2022.04.24-13.26.59:439][623]Cmd: MAP LOAD FILE="D:/UnrealProjects/ProjectEnglish/Content/ProjEng/Maps/Street.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.24-13.26.59:439][623]LightingResults: New page: Lighting Build
+[2022.04.24-13.26.59:439][623]LoadErrors: New page: Loading map: Street.umap
+[2022.04.24-13.26.59:491][623]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-13.26.59:491][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-13.26.59:492][623]MapCheck: New page: Map Check
+[2022.04.24-13.26.59:492][623]LightingResults: New page: Lighting Build
+[2022.04.24-13.26.59:512][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.24-13.26.59:522][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.24-13.26.59:554][623]LogTexture: Display: Waiting for textures to be ready 2/33 (/Game/Megascans/Surfaces/Roof_Tiles_uevkfcug/T_Roof_Tiles_uevkfcug_2K_D) ...
+[2022.04.24-13.26.59:588][623]LogTexture: Display: Waiting for textures to be ready 3/33 (/Game/Megascans/Surfaces/Roof_Tiles_uevkfcug/T_Roof_Tiles_uevkfcug_2K_N) ...
+[2022.04.24-13.26.59:639][623]LogTexture: Display: Waiting for textures to be ready 4/33 (/Game/Megascans/Surfaces/Roof_Tiles_uevkfcug/T_RoofTiles_uevkfcug_2K_ORDp) ...
+[2022.04.24-13.26.59:689][623]LogTexture: Display: Waiting for textures to be ready 5/33 (/Game/Megascans/Surfaces/Worn_Painted_Metal_Roof_vgdjeetfw/T_Worn_Painted_Metal_Roof_vgdjeetfw_2K_D) ...
+[2022.04.24-13.26.59:733][623]LogTexture: Display: Waiting for textures to be ready 6/33 (/Game/Megascans/Surfaces/Worn_Painted_Metal_Roof_vgdjeetfw/T_Worn_Painted_Metal_Roof_vgdjeetfw_2K_N) ...
+[2022.04.24-13.26.59:773][623]LogTexture: Display: Waiting for textures to be ready 7/33 (/Game/Megascans/Surfaces/Worn_Painted_Metal_Roof_vgdjeetfw/T_WornPaintedMetalRoof_vgdjeetfw_2K_ORDp) ...
+[2022.04.24-13.26.59:819][623]LogTexture: Display: Waiting for textures to be ready 8/33 (/Game/GrenadePack/Textures/t_concrete_base) ...
+[2022.04.24-13.26.59:847][623]LogTexture: Display: Waiting for textures to be ready 12/33 (/Game/Megascans/Surfaces/Brick_Facade_vizcegj/T_Brick_Facade_vizcegj_2K_D) ...
+[2022.04.24-13.26.59:888][623]LogTexture: Display: Waiting for textures to be ready 13/33 (/Game/Megascans/Surfaces/Brick_Facade_vizcegj/T_Brick_Facade_vizcegj_2K_N) ...
+[2022.04.24-13.26.59:931][623]LogTexture: Display: Waiting for textures to be ready 14/33 (/Game/Megascans/Surfaces/Brick_Facade_vizcegj/T_BrickFacade_vizcegj_2K_ORDp) ...
+[2022.04.24-13.26.59:989][623]LogTexture: Display: Waiting for textures to be ready 15/33 (/Game/Megascans/Surfaces/Dirty_Concrete_Floor_vimmaghg/T_Dirty_Concrete_Floor_vimmaghg_2K_D) ...
+[2022.04.24-13.27.00:033][623]LogTexture: Display: Waiting for textures to be ready 16/33 (/Game/Megascans/Surfaces/Dirty_Concrete_Floor_vimmaghg/T_Dirty_Concrete_Floor_vimmaghg_2K_N) ...
+[2022.04.24-13.27.00:075][623]LogTexture: Display: Waiting for textures to be ready 17/33 (/Game/Megascans/Surfaces/Dirty_Concrete_Floor_vimmaghg/T_DirtyConcreteFloor_vimmaghg_2K_ORDp) ...
+[2022.04.24-13.27.00:120][623]LogTexture: Display: Waiting for textures to be ready 18/33 (/Game/Megascans/Surfaces/Concrete_Checkered_Floor_tiimdggg/T_Concrete_Checkered_Floor_tiimdggg_2K_D) ...
+[2022.04.24-13.27.00:165][623]LogTexture: Display: Waiting for textures to be ready 19/33 (/Game/Megascans/Surfaces/Concrete_Checkered_Floor_tiimdggg/T_Concrete_Checkered_Floor_tiimdggg_2K_N) ...
+[2022.04.24-13.27.00:205][623]LogTexture: Display: Waiting for textures to be ready 20/33 (/Game/Megascans/Surfaces/Concrete_Checkered_Floor_tiimdggg/T_ConcreteCheckeredFloor_tiimdggg_2K_ORDp) ...
+[2022.04.24-13.27.00:250][623]LogTexture: Display: Waiting for textures to be ready 21/33 (/Game/Megascans/Surfaces/Wooden_Beadboard_udflcdzqx/T_Wooden_Beadboard_udflcdzqx_2K_D) ...
+[2022.04.24-13.27.00:293][623]LogTexture: Display: Waiting for textures to be ready 22/33 (/Game/Megascans/Surfaces/Wooden_Beadboard_udflcdzqx/T_Wooden_Beadboard_udflcdzqx_2K_N) ...
+[2022.04.24-13.27.00:334][623]LogTexture: Display: Waiting for textures to be ready 23/33 (/Game/Megascans/Surfaces/Wooden_Beadboard_udflcdzqx/T_WoodenBeadboard_udflcdzqx_2K_ORDp) ...
+[2022.04.24-13.27.00:379][623]LogTexture: Display: Waiting for textures to be ready 27/33 (/Game/Megascans/Surfaces/Old_Rotten_Wood_vlzhfekn/T_Old_Rotten_Wood_vlzhfekn_2K_D) ...
+[2022.04.24-13.27.00:420][623]LogTexture: Display: Waiting for textures to be ready 28/33 (/Game/Megascans/Surfaces/Old_Rotten_Wood_vlzhfekn/T_Old_Rotten_Wood_vlzhfekn_2K_N) ...
+[2022.04.24-13.27.00:732][623]LogTexture: Display: Waiting for textures to be ready 29/33 (/Game/Megascans/Surfaces/Old_Rotten_Wood_vlzhfekn/T_OldRottenWood_vlzhfekn_2K_ORDp) ...
+[2022.04.24-13.27.00:777][623]LogTexture: Display: Waiting for textures to be ready 30/33 (/Game/Megascans/Surfaces/Wooden_Planks_ugtnbcko/T_Wooden_Planks_ugtnbcko_2K_D) ...
+[2022.04.24-13.27.00:822][623]LogTexture: Display: Waiting for textures to be ready 31/33 (/Game/Megascans/Surfaces/Wooden_Planks_ugtnbcko/T_Wooden_Planks_ugtnbcko_2K_N) ...
+[2022.04.24-13.27.00:864][623]LogTexture: Display: Waiting for textures to be ready 32/33 (/Game/Megascans/Surfaces/Wooden_Planks_ugtnbcko/T_WoodenPlanks_ugtnbcko_2K_ORDp) ...
+[2022.04.24-13.27.00:914][623]LogStaticMesh: Display: Waiting for static meshes to be ready 2/6 (/Game/untitled_category/untitled_asset/Wall_3M_Door_001) ...
+[2022.04.24-13.27.00:968][623]LogStaticMesh: Display: Waiting for static meshes to be ready 3/6 (/Game/untitled_category/untitled_asset/Wall_3M_Window_3_018) ...
+[2022.04.24-13.27.01:000][623]LogStaticMesh: Display: Waiting for static meshes to be ready 4/6 (/Game/untitled_category/untitled_asset/Wall_3M_Window_3_031) ...
+[2022.04.24-13.27.01:032][623]LogStaticMesh: Display: Waiting for static meshes to be ready 5/6 (/Game/untitled_category/untitled_asset/Wall_3M_Window_3_052) ...
+[2022.04.24-13.27.01:045][623]LogWorld: UWorld::CleanupWorld for Street, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-13.27.01:046][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-13.27.01:070][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.24-13.27.01:087][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.24-13.27.01:092][623]LoadErrors: Error: The summary for the package '/Game/Megascans/Surfaces/Disposable_Aluminum_Magazine_sgpcbfhc/MI_Disposable_Aluminum_Magazine_sgpcbfhc_2K' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:093][623]LoadErrors: Error: The summary for the package '/Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:094][623]LoadErrors: Error: The summary for the package '/Game/Plugins/LyraExampleContent/Content/Materials/M_Glass_Panels_NM_Inst_Inst' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:094][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MI_Wood_Interior' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:095][623]LoadErrors: Error: The summary for the package '/Game/ProjEng/Art/Materials/NewMaterials/MI_WoodWindow' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:097][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_003' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:097][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_007' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:098][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_008' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:098][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cube_009' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:098][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_002' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:099][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_003' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:099][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Cylinder_005' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:100][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Plane' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:100][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Plane_004' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:101][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_010' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:101][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_013' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:102][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_014' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:102][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_019' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:103][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_020' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:103][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_024' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:103][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_026' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:104][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_038' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:105][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_039' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:105][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_040' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:106][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_042' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:106][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_045' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:106][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_048' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:107][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_049' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:107][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_050' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:108][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_051' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:109][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_053' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:109][623]LoadErrors: Error: The summary for the package '/Game/untitled_category/untitled_asset/Wall_3M_Window_3_054' is invalid. Check that the file is of the expected type and not corrupted.
+[2022.04.24-13.27.01:324][623]LogAudio: Display: Audio Device (ID: 1) registered with world 'Street'.
+[2022.04.24-13.27.01:324][623]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.24-13.27.01:324][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-13.27.01:325][623]LogAIModule: Creating AISystem for world Street
+[2022.04.24-13.27.01:340][623]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.27.01:340][623]AnimBlueprintLog: Warning: SLOTNODE: 'Fullbody' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.27.01:340][623]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBodyOnly' in animation instance class AB_Worker_C already exists. Remove duplicates from the animation graph for this class.
+[2022.04.24-13.27.01:371][623]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.24-13.27.03:324][623]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.04.24-13.27.03:324][623]LogUObjectHash: Compacting FUObjectHashTables data took 1881.86ms
+[2022.04.24-13.27.03:324][623]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049658s
+[2022.04.24-13.27.03:330][623]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.24-13.27.03:330][623]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,196ms to complete.
+[2022.04.24-13.27.03:330][623]LogFileHelpers: Loading map 'Street' took 3.891
+[2022.04.24-13.27.03:332][623]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002867s (0.055303s overbudget)
+[2022.04.24-13.27.07:926][824]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-13.27.07:932][824]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-13.27.29:477][468]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ProjEng/Art/Materials/NewMaterials/MI_Aluminium.MI_Aluminium
+[2022.04.24-13.27.29:491][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-13.27.29:573][468]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.04.24-13.27.29:624][468]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.04.24-13.27.35:637][702]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ProjEng/Art/Materials/NewMaterials/MI_Aluminium1.MI_Aluminium1
+[2022.04.24-13.27.35:638][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-13.27.46:775][304]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.24-13.28.15:166][933]LogSlate: Window 'MI_Aluminium1' being destroyed
+[2022.04.24-13.28.15:170][933]LogSlate: Window 'MI_Aluminium1' being destroyed
+[2022.04.24-13.28.15:189][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.24-13.28.15:247][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.24-13.28.15:264][933]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-13.28.15:264][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-13.28.15:290][933]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-13.28.15:290][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-13.28.27:142][122]LogDerivedDataCache: C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.435 and deleted 23 file(s) with total size 8 MiB.
