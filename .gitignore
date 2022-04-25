@@ -71,19 +71,7 @@ Intermediate/*
 DerivedDataCache/*
 *.db
 
-Plugins/**/Intermediate/
-Plugins/Animation/**/Intermediate/
-Plugins/Rintime/**/Intermediate/
-
 *.pdb
 *.bc
 ipch/
 
-Plugins/GRPCRuntime/GrpcPrograms/cpp
-Plugins/GRPCRuntime/GrpcPrograms/go
-/**/*DebugGame.*
-/DerivedDataCache/
-/LocalDerivedDataCache/
-.idea/*
-/Plugins/BlueprintAssist/NodeSizeCache/*
-/Content/HoudiniEngine/Temp/*
